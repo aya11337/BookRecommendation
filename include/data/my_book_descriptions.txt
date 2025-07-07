@@ -1,0 +1,50 @@
+0 ::: The Idea of the World (2019) ::: Bernardo Kastrup ::: An ontological thesis arguing for the primacy of mind over matter.
+1 ::: Exploring the World of Lucid Dreaming (1990) ::: Stephen LaBerge ::: A practical guide to learning and enjoying lucid dreams.
+2 ::: Don’t Let Him In (2025) ::: Lisa Jewell ::: A gripping psychological thriller.
+3 ::: Atmosphere (2025) ::: Taylor Jenkins Reid ::: Contemporary fiction exploring identity and relationships.
+4 ::: A Mother’s Love (2025) ::: Danielle Steel ::: Emotional family drama.
+5 ::: Never Flinch (2025) ::: Stephen King ::: A chilling thriller.
+6 ::: The Knight and the Moth (2025) ::: Rachel Gillig ::: Epic fantasy about destiny and rebellion.
+7 ::: Great Big Beautiful Life (2025) ::: Emily Henry ::: Heart-warming contemporary fiction.
+8 ::: My Friends (2025) ::: Fredrik Backman ::: Reflective literary fiction.
+9 ::: Original Sin (2025) ::: Tapper & Thompson ::: Political non-fiction exploring truth and power.
+10 ::: The Let Them Theory (2025) ::: Mel Robbins ::: Motivational self-help on boundaries and mindset.
+11 ::: Baking Across America (2025) ::: B. Dylan Hollis ::: Food memoir and cookbook.
+12 ::: Iron Flame (2024) ::: Rebecca Yarros ::: High-fantasy sequel with dragons and rebellion.
+13 ::: Fourth Wing (2023) ::: Rebecca Yarros ::: Fantasy romance bestseller.
+14 ::: Onyx Storm (2024) ::: Rebecca Yarros ::: Romantic fantasy adventure.
+15 ::: One Golden Summer (2025) ::: Carley Fortune ::: Contemporary romance about second chances.
+16 ::: The Tenant (2025) ::: Freida McFadden ::: Psychological thriller full of suspense.
+17 ::: The Boyfriend (2025) ::: Freida McFadden ::: Twisty and unsettling domestic thriller.
+18 ::: The Crash (2025) ::: Freida McFadden ::: Gripping thriller involving memory and mystery.
+19 ::: Jujutsu Kaisen Vol. 26 (2025) ::: Gege Akutami ::: Popular shōnen manga with supernatural battles.
+20 ::: Solo Leveling Vol. 12 (2025) ::: Dubu & Chugong ::: Hit fantasy webtoon adaptation.
+21 ::: The Great Gatsby (1925) ::: F. Scott Fitzgerald ::: Classic American novel of wealth and illusion.
+22 ::: Atlas of the Heart (2021) ::: Brené Brown ::: Guide to emotional language and connection.
+23 ::: The Four Winds (2021) ::: Kristin Hannah ::: Historical fiction during the Great Depression.
+24 ::: How Not to Die (2015) ::: Michael Greger, MD ::: Health and nutrition science-based guide.
+25 ::: And Then There Were None (1939) ::: Agatha Christie ::: Masterful locked-room mystery.
+26 ::: The Da Vinci Code (2003) ::: Dan Brown ::: Worldwide thriller about secret societies.
+27 ::: She: A History of Adventure (1887) ::: H. Rider Haggard ::: Adventure fantasy novel.
+28 ::: Harry Potter and the Chamber of Secrets (1998) ::: J.K. Rowling ::: Second book in the iconic fantasy series.
+29 ::: Harry Potter and the Deathly Hallows (2007) ::: J.K. Rowling ::: Final epic in the Harry Potter saga.
+30 ::: The Girl with the Dragon Tattoo (2005) ::: Stieg Larsson ::: International crime thriller.
+31 ::: Where the Crawdads Sing (2018) ::: Delia Owens ::: Literary mystery about loneliness and survival.
+32 ::: 1984 (1949) ::: George Orwell ::: Dystopian vision of a totalitarian future.
+33 ::: The 7 Habits of Highly Effective People (1989) ::: Stephen R. Covey ::: Classic personal development guide.
+34 ::: To Kill a Mockingbird (1960) ::: Harper Lee ::: Pulitzer-winning novel on race and justice.
+35 ::: The Alchemist (1988) ::: Paulo Coelho ::: Spiritual journey of personal legend.
+36 ::: The Hobbit (1937) ::: J.R.R. Tolkien ::: Fantasy adventure and prelude to The Lord of the Rings.
+37 ::: A Game of Thrones (1996) ::: George R.R. Martin ::: Political intrigue in a medieval fantasy world.
+38 ::: The Very Hungry Caterpillar (1969) ::: Eric Carle ::: Beloved children’s picture book.
+39 ::: Think and Grow Rich (1937) ::: Napoleon Hill ::: Foundational self-help and business mindset book.
+40 ::: Anne of Green Gables (1908) ::: L.M. Montgomery ::: Classic coming-of-age story.
+41 ::: Black Beauty (1877) ::: Anna Sewell ::: Moving story told from a horse’s perspective.
+42 ::: The Name of the Rose (1980) ::: Umberto Eco ::: Medieval mystery and philosophical novel.
+43 ::: Charlotte’s Web (1952) ::: E.B. White ::: Heartwarming tale of friendship and loss.
+44 ::: The Eagle Has Landed (1975) ::: Jack Higgins ::: WWII thriller with suspense and deception.
+45 ::: Sophie’s World (1991) ::: Jostein Gaarder ::: Philosophical novel exploring the history of thought.
+46 ::: Dune (1965) ::: Frank Herbert ::: Epic science fiction saga on politics and ecology.
+47 ::: Man’s Search for Meaning (1946) ::: Viktor E. Frankl ::: Memoir and psychology of survival and purpose.
+48 ::: Catch-22 (1961) ::: Joseph Heller ::: Satirical anti-war novel with paradoxical logic.
+49 ::: The Catcher in the Rye (1951) ::: J.D. Salinger ::: Classic coming-of-age story of teenage alienation.
