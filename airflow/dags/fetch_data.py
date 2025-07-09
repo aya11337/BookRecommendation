@@ -5,10 +5,23 @@ collection_name='Books'
 book_description_folder="include/data"
 embedding_model='BAAI/bge-small-en-v1.5'
 
+def retries(context):
+    task_instance=context("task_instance")
+    dag_run=context("dag_run")
+    print(
+        f"CallBack: Task{task_instance.task_id}"
+        f"has failed in Dag{dag_run.dag_id} at {dag_run.start_date}"
+    )
 
 @dag(
     start_date=datetime(2025, 7, 11),
     schedule_interval='@daily',
+    default_args={
+        "retries":2,
+        "retry_delay":timedelta(minutes=5),
+        "on_failure_callback":retries,
+    }
+    
    
     
 )
