@@ -1,0 +1,11 @@
+{"timestamp":"2025-07-07T21:33:14.117851","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T21:33:14.158693","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/my_second_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T21:33:17.871348Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.875443Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.878329Z","level":"info","event":"Current task name:my_task_2","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.883610Z","level":"info","event":"Dag name:my_second_dag","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.885409Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.886182Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:17.887159Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): my_task_2>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T21:33:15.140525","level":"info","event":"Done. Returned value was: 42","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
+{"timestamp":"2025-07-07T21:33:15.155336","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('0197e6ce-5db6-7e34-aa9a-a5bd4a2108aa'), task_id='my_task_2', dag_id='my_second_dag', run_id='manual__2025-07-07T21:32:53.470895+00:00', try_number=1, map_index=-1, hostname='e17dbcb6c724', context_carrier={}, task=<Task(_PythonDecoratedOperator): my_task_2>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 7, 7, 21, 33, 2, 51181, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
